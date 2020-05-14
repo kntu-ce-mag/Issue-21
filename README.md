@@ -5,6 +5,6 @@
 
 
 ## کاور مجله
-![Cover](https://github.com/kntu-ce-mag/issue-21/raw/master/cover-front.jpg)![Cover](https://github.com/kntu-ce-mag/issue-21/raw/master/cover-rear.jpg)
+![Cover](https://github.com/kntu-ce-mag/issue-21/raw/master/cover-front.jpg)
 ## دانلود
 [Issue 21 - Download](https://github.com/kntu-ce-mag/issue-21/raw/master/CE_KNTU_ISSUE_21.pdf)
